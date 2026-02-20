@@ -18,9 +18,23 @@ Ask yourself, “What is the difficult part about the project? How will I solve 
 
 Lastly, consider what classes you will create, their roles & responsibilities, how your classes will interface with one another, where data will come from, and what data structures will be used. If there are lots of data sources and paths, making a diagram can help add clarity. Many projects will not require a Data Flow Diagram.
 
+## Detailed Schedule
+
+> Revise your weekly milestones with detailed tasks for each week (minimum 4 tasks / week - 2 per team member).
+> 
+> Create your task list from [this template](https://docs.google.com/spreadsheets/d/1F2ba3ekH2hg-wLWOCXHkyzi8Q8jizi4QHmhfRdichcU/edit?usp=sharing) (You may modify but you should keep this as the minimum required information for a task list).
+>
+> You must include a link to your phase 2 detailed task list in this document as markdown. (See below for an example; you can convert the google sheet to markdown using this tool here: https://tabletomarkdown.com/convert-spreadsheet-to-markdown/)
+> 
+> This is an ordered list of major pieces of functionality created in an intentional order to help you incrementally create a larger project that works. Each deliverable is a significant piece of functionality that should be completed before the next deliverable starts. While it is often true that one deliverable must be delivered before another can be accomplished, deliverables do not have to have dependencies on one another. This means that two deliverables can be developed in parallel by different members of a team.
+> 
+> Oftentimes we will discover more deliverables along the way. This is fine. It is difficult (sometimes impossible) to know everything at the start of a project. Discovered work will be added to the Task List for following weeks, or as zero initial time estimates for the current week.
+> 
+> You should take your task milestones and add tasks for each milestone that are well defined, with time estimates. 
+
 ## Diagrams
 
-You should consider at a minimum to create the following diagrams. You could consider using [Mermaid](https://mermaid.live/) to create them; search up what you can do at [this link!](https://mermaid.js.org/intro/) 
+You should consider at a minimum to create the following diagrams. You could consider using [Mermaid](https://mermaid.live/) to create them (you do not need an account; be sure to save your mermaid text though so you don't lose your work); search up what you can do at [this link!](https://mermaid.js.org/intro/) 
 
 {% tabs diagrams %}
 
