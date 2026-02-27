@@ -4,33 +4,34 @@ title: Activity
 nav_order: 99
 ---
 
-# Activity
+# Exploring Advanced Data Visualizations for Research Projects
 
-## Exploring Advanced Data Visualizations for Research Projects
-
-### Objective: 
+## Objective: 
 
 Create advanced data visualizations that effectively communicate complex data insights, moving beyond basic line or scatter plots.
 
-### Overview:
+## Directions:
 
-Explore one of the following resources for five minutes
+ - [10 mins] - Explore various visualizations
+ - [10 mins] - Join a group of 3 or 4 students
+   - Analyze the data set and research question to identify key insights.
+   - Select an advanced visualization type (do not choose a line or scatter plot) that best represents the data and supports the research question (you may do more than one)
+   - Sketch a draft of the chosen visualization.
+   - Prepare a brief explanation why you chose this view and why the selected visualization is more effective than basic plots.
+ - [XX mins] - Review with Teacher
+
+## Visualization Resources
 
 1. [Data Visualization Catalogue](https://datavizcatalogue.com/)
 2. [Seaborn examples](https://seaborn.pydata.org/examples/)
 3. [How to Choose the Right Data Visualization](https://www.atlassian.com/data/charts/how-to-choose-data-visualization)
 4. [NCHS Data Visualization Gallery](https://www.cdc.gov/nchs/data-visualization/index.htm)
 5. [Data Viz Project](https://datavizproject.com/)
-5. [NCHS-CS website on visualizations](https://nchs-cs.github.io/idp/visualizations/)
+6. [NCHS-CS website on visualizations](https://nchs-cs.github.io/idp/visualizations/)
 
-Now consider that we have two data set examples below. 
+## Dataset Descriptions
 
-1. Join into a group of 3 or 4 people.
-2. Choose one of these data sets (or you can work with your own research project idea).
-     - Analyze the data set and research question to identify key insights.
-     - Select an advanced visualization type (do not choose a line or scatter plot) that best represents the data and supports the research question.
-     - Sketch a draft of the chosen visualization on paper.
-     - Prepare a brief explanation why you chose this view and why the selected visualization is more effective than basic plots.
+Choose one of these data sets (or you can work with your own research project idea).
 
 **Data Set 1 - Global Renewable Energy Consumption**
 
