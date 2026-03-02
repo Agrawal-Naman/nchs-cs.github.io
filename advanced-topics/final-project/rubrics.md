@@ -33,7 +33,7 @@ There are three main rubric categories that are detailed in the following sectio
 | **Category**               | **Criteria**                                                                         | **Points** |
 |----------------------------|--------------------------------------------------------------------------------------|------------|
 | **User Experience** | - Develop Wireflow.<br>- At least 5 different screen layouts<br>- Screen Layouts show connections and annotations to explain how transitions or changes are effected by mouse or keyboard input.<br>- Includes every possible screen for your prototype, core and stretch features<br>-You must show with coloring or a code which part of each screen is prototype, core and stretch. You will be graded that your wireflow can be `understood`. For this to be true it must be legible and descriptive so that someone could write the logic and code for your vision. | 10         |
-| **Testing ** | - Provided a test strategy (overview) for the project and detailed test cases for each test category for prototype, manual and automated testing. You must convince me that your program will behave as you expect by having sufficient details on the testing. For manual testing you provided some detailed steps on the tests you will run through. | 5 |
+| **Testing** | - Provided a test strategy (overview) for the project and detailed test cases for each test category for prototype, manual and automated testing. You must convince me that your program will behave as you expect by having sufficient details on the testing. For manual testing you provided some detailed steps on the tests you will run through. | 5 |
 
 
 ##  <a name='Rubric'></a>Phase 3 (25 pts)
