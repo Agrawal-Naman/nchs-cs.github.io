@@ -15,7 +15,7 @@ There are three main rubric categories that are detailed in the following sectio
 1. TOC
 {:toc}
 
-# Design Document (55)
+# Design Document (60)
 
 ## <a name='Rubric'></a>Phase 1 (20 pts)
 
@@ -32,17 +32,17 @@ There are three main rubric categories that are detailed in the following sectio
 
 | **Category**               | **Criteria**                                                                         | **Points** |
 |----------------------------|--------------------------------------------------------------------------------------|------------|
-| **Detailed Schedule (baseline)**    | - All weekly goals have a subset of at least 4 tasks that will be individually assigned and estimated (assignments not required)<br>- All tasks have reasonable initial estimates<br>- Initial estimates with multiplier fits within a reasonable range of a weeks work in class.<br>- Actual times can be recorded to calculate the teams velocity each week to adjust future work estimates. | 5      |
-| **User Experience** | - Develop Wireframes and Mockups.<br>- At least 5 different screen layouts<br>- Screen Layouts show connections and annotations to explain how transitions or changes are effected by mouse or keyboard input.<br>- Includes every possible screen you plan to create for your core features<br>- _Nice to have but not graded:_ Show where your stretch UI features will go or change the UI | 10         |
+| **User Experience** | - Develop Wireflow.<br>- At least 5 different screen layouts<br>- Screen Layouts show connections and annotations to explain how transitions or changes are effected by mouse or keyboard input.<br>- Includes every possible screen for your prototype, core and stretch features<br>-You must show with coloring or a code which part of each screen is prototype, core and stretch. You will be graded that your wireflow can be `understood`. For this to be true it must be legible and descriptive so that someone could write the logic and code for your vision. | 10         |
+| **Testing ** | - Provided a test strategy (overview) for the project and detailed test cases for each test category for prototype, manual and automated testing. You must convince me that your program will behave as you expect by having sufficient details on the testing. For manual testing you provided some detailed steps on the tests you will run through. | 5 |
 
-##  <a name='Rubric'></a>Phase 3 (20 pts)
+
+##  <a name='Rubric'></a>Phase 3 (25 pts)
 
 | **Category**               | **Criteria**                                                                         | **Points** |
 |----------------------------|--------------------------------------------------------------------------------------|------------|
-| **Detailed Design**    | - Class Design & Data Structures are well-structured with appropriate attributes, methods with key parameters and return types.<br>- Explains how classes communicate, share data, and interact within the system.<br>- Describes important algorithms with step-by-step logic or pseudocode.<br>- User Interface & External Libraries (if applicable): Outlines key UI components, interactions, and any third-party libraries used with justification.<br>- Satisfies requirements in the Detailed Design Template (design diagrams, user stories etc) | 15      |
-| **User Stories**    | - Each tasks on the schedule has at least 1 user story referenced writted per the definition provided. | 5   |
-| **Testing Strategy** | - Provided a description of the different test strategies you will use (e.g. Manual, UI testing, Automated/Junit testing). You convinced me that your program will behave as you expect by having sufficient details on the testing. For manual testing you provided some detailed steps on the tests you will run through. | 3 |
-| **Algorithms** | - Clearly documents key algorithms (If your project has approval for no algorithms, your detailed design will be weighted with these points) | 2 |
+| **Detailed Design**    | - Class Design & Data Structures are well-structured with appropriate attributes, methods with key parameters and return types.<br>- Explains how classes communicate, share data, and interact within the system.<br>- Includes a minimum of a class and sequence diagram.<br>- Satisfies requirements in the Detailed Design Template (design diagrams etc) | 15      |
+| **Detailed Schedule (baseline)**    | - All weekly goals have a subset of at least 4 tasks that will be individually assigned and estimated (assignments not required)<br>- All tasks have reasonable initial estimates<br>- Initial estimates with multiplier fits within a reasonable range of a weeks work in class.<br>- Actual times can be recorded to calculate the teams velocity each week to adjust future work estimates. | 5      |
+| **Algorithms** | - Clearly documents key algorithms (If your project has approval for no algorithms, your detailed design will be weighted with these points) | 5 |
 
 # Project Completion (60)
 

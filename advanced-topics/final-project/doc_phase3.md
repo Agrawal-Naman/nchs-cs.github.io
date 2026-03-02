@@ -21,10 +21,13 @@ Lastly, consider what classes you will create, their roles & responsibilities, h
 ## Detailed Schedule
 
 > Revise your weekly milestones with detailed tasks for each week (minimum 4 tasks / week - 2 per team member).
+>
+> Include a link to your detailed task list here as well as the markdown version inline 
+> (make sure to paste the markdown after you convert your document to markdown)
 > 
 > Create your task list from [this template](https://docs.google.com/spreadsheets/d/1F2ba3ekH2hg-wLWOCXHkyzi8Q8jizi4QHmhfRdichcU/edit?usp=sharing) (You may modify but you should keep this as the minimum required information for a task list).
 >
-> You must include a link to your phase 2 detailed task list in this document as markdown. (See below for an example; you can convert the google sheet to markdown using this tool here: https://tabletomarkdown.com/convert-spreadsheet-to-markdown/)
+> You must include your phase 3 detailed task list in this document as markdown. (See below for an example; you can convert t google sheet to markdown using this tool here: https://tabletomarkdown.com/convert-spreadsheet-to-markdown/)
 > 
 > This is an ordered list of major pieces of functionality created in an intentional order to help you incrementally create a larger project that works. Each deliverable is a significant piece of functionality that should be completed before the next deliverable starts. While it is often true that one deliverable must be delivered before another can be accomplished, deliverables do not have to have dependencies on one another. This means that two deliverables can be developed in parallel by different members of a team.
 > 
@@ -34,7 +37,7 @@ Lastly, consider what classes you will create, their roles & responsibilities, h
 
 ## Diagrams
 
-You should consider at a minimum to create the following diagrams. You could consider using [Mermaid](https://mermaid.live/) to create them (you do not need an account; be sure to save your mermaid text though so you don't lose your work); search up what you can do at [this link!](https://mermaid.js.org/intro/) 
+At a minimum you must create a class diagram (and details) and sequence diagram. You could consider using [Mermaid](https://mermaid.live/) to create them (you do not need an account; be sure to save your mermaid text though so you don't lose your work); search up what you can do at [this link!](https://mermaid.js.org/intro/). There are also extensions for visual studio that you can try out and use for creating these diagrams using mermaid chart syntax (I personally like using [Markdown Preview Mermaid](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid) so you can include mermaid content directly inline in your markdown document).
 
 {% tabs diagrams %}
 
@@ -248,7 +251,7 @@ sequenceDiagram
 {% endtab %}
 
 {% tab diagrams Flow Chart Diagram %}
-**Flow Chart Diagram**: A flowchart diagram in a detailed design document shows the step-by-step logic of a process or method. It uses shapes like diamonds (decisions) and rectangles (actions) to represent control flow. Flowcharts are ideal for illustrating branching paths, loops, or procedural algorithms. They help readers visualize how specific game features or functions work internally. Use them when the logic is too complex for plain text or pseudocode alone. You can also read more about them on [GeeksForGeeks](https://www.geeksforgeeks.org/an-introduction-to-flowcharts/).
+**Flow Chart Diagram**: A flowchart diagram in a detailed design document shows the step-by-step logic of a process or method. It uses shapes like diamonds (decisions) and rectangles (actions) to represent control flow. Flowcharts are ideal for illustrating branching paths, loops, or procedural algorithms. They help readers visualize how specific game features or functions work internally. Use them when the logic is too complex for plain text or pseudocode alone. You can also read more about them on [GeeksForGeeks](https://www.geeksforgeeks.org/an-introduction-to-flowcharts/). While not required you will find that explaining any algorithms or complex calculations easier with a flow chart. Consider using these where time based sequences are not key to the procedure.
 
 
 <details>
