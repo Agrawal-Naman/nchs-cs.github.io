@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "external/cse163"
+		}
+	],
+	"settings": {}
+}
